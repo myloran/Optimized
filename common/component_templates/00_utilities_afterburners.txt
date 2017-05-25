@@ -29,7 +29,7 @@ utility_component_template = {
 	icon = "GFX_ship_part_afterburner_1"
 	icon_frame = 1
 	power = -10
-	cost = 10
+	cost = 0
 	modifier = {
 		ship_combat_speed_mult = 0.25
 	}
@@ -52,7 +52,7 @@ utility_component_template = {
 	icon = "GFX_ship_part_afterburner_2"
 	icon_frame = 1
 	power = -20
-	cost = 10
+	cost = 0
 	modifier = {
 		ship_combat_speed_mult = 0.50
 	}

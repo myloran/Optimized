@@ -10,7 +10,7 @@ utility_component_template = {
 	icon = "GFX_ship_part_shield_recharger"
 	icon_frame = 1
 	power = -20
-	cost = 10
+	cost = 0
 	
 	prerequisites = { "tech_shield_rechargers_1" }
 	component_set = "SHIELD_RECHARGER"
@@ -38,7 +38,7 @@ utility_component_template = {
 	icon = "GFX_ship_part_crystal_armor_1"
 	icon_frame = 1
 	power = 0
-	cost = 10
+	cost = 0
 	
 	prerequisites = { "tech_crystal_armor_1" }
 	component_set = "CRYSTAL_ARMOR_1"
@@ -59,7 +59,7 @@ utility_component_template = {
 	icon = "GFX_ship_part_crystal_armor_2"
 	icon_frame = 1
 	power = 0
-	cost = 10
+	cost = 0
 	
 	prerequisites = { "tech_crystal_armor_2" }
 	component_set = "CRYSTAL_ARMOR_2"
@@ -83,7 +83,7 @@ utility_component_template = {
 	icon = "GFX_ship_part_auto_repair"
 	icon_frame = 1
 	power = 0
-	cost = 10
+	cost = 0
 
 	modifier = {
 		ship_auto_repair_add = 0.02 # Regenerates 2% ship-health per month

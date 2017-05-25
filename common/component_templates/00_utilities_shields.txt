@@ -28,25 +28,25 @@
 #	COST	#
 #############
 
-@cost_S1 = 5
-@cost_M1 = 10
-@cost_L1 = 20
+@cost_S1 = 0
+@cost_M1 = 0
+@cost_L1 = 0
            
-@cost_S2 = 5
-@cost_M2 = 10
-@cost_L2 = 20
+@cost_S2 = 0
+@cost_M2 = 0
+@cost_L2 = 0
            
-@cost_S3 = 5
-@cost_M3 = 10
-@cost_L3 = 20
+@cost_S3 = 0
+@cost_M3 = 0
+@cost_L3 = 0
            
-@cost_S4 = 5
-@cost_M4 = 10
-@cost_L4 = 20
+@cost_S4 = 0
+@cost_M4 = 0
+@cost_L4 = 0
            
-@cost_S5 = 5
-@cost_M5 = 10
-@cost_L5 = 20
+@cost_S5 = 0
+@cost_M5 = 0
+@cost_L5 = 0
 
 #############
 #	SHIELD	#
@@ -331,9 +331,9 @@ utility_component_template = {
 	icon = "GFX_ship_part_psi_shield"
 	icon_frame = 1
 	power = -15
-	cost = 5
+	cost = 0
 	modifier = {
-		ship_shield_hp_add = 60
+		ship_shield_hp_add = 150
 		ship_shield_regen_add = 4.6 #Regeneration per day
 	}
 	prerequisites = { "tech_psionic_shield" }
@@ -346,9 +346,9 @@ utility_component_template = {
 	icon = "GFX_ship_part_psi_shield"
 	icon_frame = 1
 	power = -30
-	cost = 10
+	cost = 0
 	modifier = {
-		ship_shield_hp_add = 120
+		ship_shield_hp_add = 300
 		ship_shield_regen_add = 6.6 #Regeneration per day
 	}
 	prerequisites = { "tech_psionic_shield" }
@@ -361,9 +361,9 @@ utility_component_template = {
 	icon = "GFX_ship_part_psi_shield"
 	icon_frame = 1
 	power = -60
-	cost = 20
+	cost = 0
 	modifier = {
-		ship_shield_hp_add = 240
+		ship_shield_hp_add = 600
 		ship_shield_regen_add = 8.6 #Regeneration per day
 	}
 	prerequisites = { "tech_psionic_shield" }

@@ -13,7 +13,7 @@ strike_craft_component_template = {
 	weapon_type = point_defence
 	projectile_gfx = "scout_laser_1"
 	power = -20
-	cost = 20
+	cost = 0
 	
 	count = @count
 	regeneration_per_day = @regen
@@ -54,7 +54,7 @@ strike_craft_component_template = {
 	weapon_type = point_defence
 	projectile_gfx = "strike_craft_laser_1"
 	power = -30
-	cost = 20
+	cost = 0
 	
 	count = @count
 	regeneration_per_day = @regen
@@ -97,7 +97,7 @@ strike_craft_component_template = {
 	weapon_type = point_defence
 	projectile_gfx = "strike_craft_laser_2"
 	power = -40
-	cost = 20
+	cost = 0
 	
 	count = @count
 	regeneration_per_day = @regen
@@ -140,7 +140,7 @@ strike_craft_component_template = {
 	weapon_type = point_defence
 	projectile_gfx = "strike_craft_laser_3"
 	power = -50
-	cost = 20
+	cost = 0
 	
 	count = @count
 	regeneration_per_day = @regen
@@ -179,7 +179,7 @@ strike_craft_component_template = {
 	size = LARGE
 	entity = "bomber_entity"
 	power = -30
-	cost = 20
+	cost = 0
 		
 	count = @count
 	regeneration_per_day = @regen
@@ -221,7 +221,7 @@ strike_craft_component_template = {
 	size = LARGE
 	entity = "bomber_entity"
 	power = -40
-	cost = 20
+	cost = 0
 		
 	count = @count
 	regeneration_per_day = @regen
@@ -263,7 +263,7 @@ strike_craft_component_template = {
 	size = LARGE
 	entity = "bomber_entity"
 	power = -50
-	cost = 20
+	cost = 0
 		
 	count = @count
 	regeneration_per_day = @regen

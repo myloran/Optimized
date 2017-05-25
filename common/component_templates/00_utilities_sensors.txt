@@ -13,7 +13,7 @@ utility_component_template = {
 	icon = "GFX_ship_part_sensor_1"
 	icon_frame = 1
 	power = 0
-	cost = 5
+	cost = 0
 	sensor_range = @sensor1
 	
 	component_set = "ship_sensor_components"
@@ -30,7 +30,7 @@ utility_component_template = {
 	icon = "GFX_ship_part_sensor_2"
 	icon_frame = 1
 	power = -5
-	cost = 5
+	cost = 0
 	sensor_range = @sensor2
 	
 	prerequisites = { "tech_sensors_2" }
@@ -52,7 +52,7 @@ utility_component_template = {
 	icon = "GFX_ship_part_sensor_3"
 	icon_frame = 1
 	power = -10
-	cost = 5
+	cost = 0
 	sensor_range = @sensor3
 	
 	prerequisites = { "tech_sensors_3" }
@@ -74,7 +74,7 @@ utility_component_template = {
 	icon = "GFX_ship_part_sensor_4"
 	icon_frame = 1
 	power = -15
-	cost = 5
+	cost = 0
 	sensor_range = @sensor4
 	
 	ship_modifier = {
@@ -95,7 +95,7 @@ utility_component_template = {
 	icon = "GFX_ship_part_sensor_1"
 	icon_frame = 1
 	power = 0
-	cost = 5
+	cost = 0
 	sensor_range = @sensor1
 	
 	component_set = "station_sensor_components"
@@ -112,7 +112,7 @@ utility_component_template = {
 	icon = "GFX_ship_part_sensor_2"
 	icon_frame = 1
 	power = -5
-	cost = 5
+	cost = 0
 	sensor_range = @sensor2
 	
 	ship_modifier = {
@@ -134,7 +134,7 @@ utility_component_template = {
 	icon = "GFX_ship_part_sensor_3"
 	icon_frame = 1
 	power = -10
-	cost = 5
+	cost = 0
 	sensor_range = @sensor3
 	
 	ship_modifier = {
@@ -156,7 +156,7 @@ utility_component_template = {
 	icon = "GFX_ship_part_sensor_4"
 	icon_frame = 1
 	power = -15
-	cost = 5
+	cost = 0
 	sensor_range = @sensor4
 	
 	ship_modifier = {

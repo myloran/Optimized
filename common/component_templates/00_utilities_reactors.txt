@@ -27,25 +27,25 @@
 #	COST	#
 #############
 
-@cost_S1 = 5
-@cost_M1 = 10
-@cost_L1 = 20
+@cost_S1 = 0
+@cost_M1 = 0
+@cost_L1 = 0
 
-@cost_S2 = 5
-@cost_M2 = 10
-@cost_L2 = 20
+@cost_S2 = 0
+@cost_M2 = 0
+@cost_L2 = 0
 
-@cost_S3 = 5
-@cost_M3 = 10
-@cost_L3 = 20
+@cost_S3 = 0
+@cost_M3 = 0
+@cost_L3 = 0
 
-@cost_S4 = 5
-@cost_M4 = 10
-@cost_L4 = 20
+@cost_S4 = 0
+@cost_M4 = 0
+@cost_L4 = 0
 
-@cost_S5 = 5
-@cost_M5 = 10
-@cost_L5 = 20
+@cost_S5 = 0
+@cost_M5 = 0
+@cost_L5 = 0
 
 #############
 # UTILITIES #
