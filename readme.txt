@@ -1,3 +1,6 @@
+C:\Users\<Username>\Documents\Paradox Interactive\Stellaris\mod\[unpack here]
+
+-------------------------------------------------------------------------------------------------------------------
 		dps	tracking	shield.damage	armor.pen	range	accuracy	additional
 -------------------------------------------------------------------------------------------------------------------
 Laser		4.5	4		1		3		2	4
