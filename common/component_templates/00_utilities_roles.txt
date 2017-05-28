@@ -690,7 +690,7 @@ utility_component_template = {
 	icon = "GFX_ship_part_computer_default"
 	icon_frame = 1
 	power = -20
-	cost = 0
+	cost = 20
 	class_restriction = { shipclass_military }
 	size_restriction = { stellarite }
 	ship_behavior = "stellarite_default"
@@ -711,7 +711,7 @@ utility_component_template = {
 #	icon = "GFX_ship_part_computer_pregoc"
 #	icon_frame = 1
 #	power = -20
-#	cost = 0
+#	cost = 20
 #	ship_behavior = "battleship_sniper"
 #	
 #	modifier = {
@@ -739,7 +739,7 @@ utility_component_template = {
 #	icon = "GFX_ship_part_computer_pregoc"
 #	icon_frame = 1
 #	power = -20
-#	cost = 0
+#	cost = 20
 #	ship_behavior = "battleship_default"
 #	
 #	modifier = {

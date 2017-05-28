@@ -1,9 +1,9 @@
 # Icons set here are the ones show in the actual slot. 
 
-@ftl1 = 5
-@ftl2 = 5
-@ftl3 = 5
-@ftl4 = 5
+@ftl1 = 0
+@ftl2 = 0
+@ftl3 = 0
+@ftl4 = 0
 
 @power1 = -5
 @power2 = -7.5

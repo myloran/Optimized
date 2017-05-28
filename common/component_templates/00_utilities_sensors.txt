@@ -1,6 +1,6 @@
-@hit2 = 10
-@hit3 = 20
-@hit4 = 30
+@hit2 = 5
+@hit3 = 10
+@hit4 = 15
 
 @sensor1 = 20
 @sensor2 = 30
